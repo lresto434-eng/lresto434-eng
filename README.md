@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there 👋 I'm Angel Resto
 
-<!--
-**lresto434-eng/lresto434-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎸 Developer & Music Enthusiast based in Thessaloniki, Greece
 
-Here are some ideas to get you started:
+## About Me
+- 🌱 Currently learning JavaScript & Full Stack Development
+- 🎵 Guitarist who loves combining music and code
+- 🇺🇸 From Connecticut, living in Greece
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- [My Portfolio](https://lresto434-eng.github.io/myPortfolio33) 
+- [NorthBridge Tech](https://github.com/lresto434-eng/NorthBridgeTech)
+
+## Skills
+HTML | CSS | JavaScript
+
